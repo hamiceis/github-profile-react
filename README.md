@@ -4,7 +4,7 @@ $ npm install or yarn add $
 
 ### Start o projeto
 
-$ npm run start $ 
+$ npm   run   start $ 
 
 ### Prévia do final do projeto
 
