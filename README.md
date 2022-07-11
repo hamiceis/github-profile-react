@@ -1,10 +1,10 @@
 ### Instalar depedências para rodar o projeto
 
-$ npm install or yarn add $
+ npm install or yarn add 
 
 ### Start o projeto
 
-$ npm   run   start $ 
+ npm   run   start 
 
 ### Prévia do final do projeto
 
